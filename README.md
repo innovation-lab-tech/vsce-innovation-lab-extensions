@@ -1,5 +1,5 @@
-# Extension Name
+# Innovation Lab Extensions Lite
 
-<div align="center"><picture><img src="extension/icon.png" title="Extension Name" alt="Extension Name"></picture></div>
+<div align="center"><picture><img src="assets/InnovationLab.png" alt="Innovation Lab" width="512px"></picture></div>
 
-Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
+## Extensions
