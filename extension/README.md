@@ -34,6 +34,10 @@ Improve highlighting of errors, warnings and other language diagnostics.
 
 View a Git Graph of your repository, and perform Git actions from the graph.
 
+### Todo Tree [Gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+Show TODO, FIXME, etc. comment tags in a tree view
+
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.
