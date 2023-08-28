@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
 - Create GUID [nwallace.createGUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
 - Docker [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- Draw.io Integration [hediet.vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - Error Lens [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - Format in context menus [lacroixdavid1.vscode-format-context-menu](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - Git Graph [mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)

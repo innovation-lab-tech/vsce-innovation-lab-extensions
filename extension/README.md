@@ -56,6 +56,10 @@ A command that creates a new GUID.
 
 Makes it easy to create, manage, and debug containerized applications.
 
+### Draw.io Integration [hediet.vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+
+This unofficial extension integrates Draw.io into VS Code.
+
 ### Error Lens [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 Improve highlighting of errors, warnings and other language diagnostics.
