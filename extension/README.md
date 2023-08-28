@@ -76,6 +76,10 @@ View a Git Graph of your repository, and perform Git actions from the graph.
 
 Your AI pair programmer
 
+### GitLens — Git supercharged [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+
 ### Live Share [MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 Real-time collaborative development from the comfort of your favorite tools.
