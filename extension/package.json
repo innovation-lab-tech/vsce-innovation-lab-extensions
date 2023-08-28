@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions-lite",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions Lite",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/innovation-lab-tech/vsce-innovation-lab-extensions/issues"
   },
-  "extensionPack": [ "ms-dynamics-smb.al", "waldo.crs-al-language-extension" ]
+  "extensionPack": [
+    "andrzejzwierzchowski.al-code-outline", "ms-dynamics-smb.al", 
+    "waldo.crs-al-language-extension"
+  ]
 }

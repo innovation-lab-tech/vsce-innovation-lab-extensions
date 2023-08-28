@@ -10,6 +10,10 @@ The Full **Innovation Lab Extensions** is available [here](https://marketplace.v
 
 Development tools for Dynamics 365 Business Central
 
+### AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
+
+AZ AL Development Tools: AL code outline, object browser, object creators
+
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.
