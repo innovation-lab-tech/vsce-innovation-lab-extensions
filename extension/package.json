@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions-lite",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions Lite",
@@ -20,10 +20,10 @@
     "url": "https://github.com/innovation-lab-tech/vsce-innovation-lab-extensions/issues"
   },
   "extensionPack": [
-    "andrzejzwierzchowski.al-code-outline", "Gruntfuggly.todo-tree", 
-    "mhutchie.git-graph", "ms-azuretools.vscode-docker", "ms-dynamics-smb.al", 
-    "nwallace.createGUID", "rasmus.al-var-helper", "rvanbekkum.xliff-sync", 
-    "StefanMaron.businesscentral-lintercop", "usernamehw.errorlens", 
-    "waldo.crs-al-language-extension"
+    "andrzejzwierzchowski.al-code-outline", "DotJoshJohnson.xml", 
+    "Gruntfuggly.todo-tree", "mhutchie.git-graph", "ms-azuretools.vscode-docker", 
+    "ms-dynamics-smb.al", "nwallace.createGUID", "rasmus.al-var-helper", 
+    "rvanbekkum.xliff-sync", "StefanMaron.businesscentral-lintercop", 
+    "usernamehw.errorlens", "waldo.crs-al-language-extension"
   ]
 }

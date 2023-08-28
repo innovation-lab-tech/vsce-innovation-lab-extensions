@@ -49,3 +49,7 @@ Make working with the (Dynamics NAV / 365) AL Language easier and more efficient
 ### XLIFF Sync [rvanbekkum.xliff-sync](https://marketplace.visualstudio.com/items?itemName=rvanbekkum.xliff-sync)
 
 A tool to keep XLIFF translation files in sync.
+
+### XML Tools [DotJoshJohnson.xml](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+
+XML Formatting, XQuery, and XPath Tools for Visual Studio Code
