@@ -8,6 +8,10 @@
 
 Development tools for Dynamics 365 Business Central
 
+### AL Object ID Ninja [vjeko.vjeko-al-objid](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
+
+Manage object IDs in multi-user environments with mind-boggling simplicity.
+
 ### AL Variable Helper [rasmus.al-var-helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
 
 Intellisense to assign correct variable names in AL.

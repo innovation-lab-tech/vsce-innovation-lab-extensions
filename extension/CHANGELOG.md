@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - AL Language extension for Microsoft Dynamics 365 Business Central [ms-dynamics-smb.al](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
+- AL Object ID Ninja [vjeko.vjeko-al-objid](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
 - AL Variable Helper [rasmus.al-var-helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
 - AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 - BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
