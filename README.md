@@ -6,6 +6,7 @@
 
 - [AL Language extension for Microsoft Dynamics 365 Business Central](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [AL Object ID Ninja](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
+- [AL Test Runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
 - [AL Toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox)
 - [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>

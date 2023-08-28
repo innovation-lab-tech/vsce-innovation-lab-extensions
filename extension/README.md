@@ -12,6 +12,10 @@ Development tools for Dynamics 365 Business Central
 
 Manage object IDs in multi-user environments with mind-boggling simplicity.
 
+### AL Test Runner [jamespearson.al-test-runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
+
+Test runner for AL tests for Business Central development
+
 ### AL Toolbox [BartPermentier.al-toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox)
 
 AL Language Regions and Snippets

@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions",
@@ -19,6 +19,6 @@
   },
   "extensionPack": [
     "Calliope.innovation-lab-extensions-lite", "BartPermentier.al-toolbox", 
-    "vjeko.vjeko-al-objid"
+    "jamespearson.al-test-runner", "vjeko.vjeko-al-objid"
   ]
 }
