@@ -17,6 +17,7 @@
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Format in context menus](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)

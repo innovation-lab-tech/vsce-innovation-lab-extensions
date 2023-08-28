@@ -56,6 +56,10 @@ VSCode extension to format multiple files with right click context menu
 
 View a Git Graph of your repository, and perform Git actions from the graph.
 
+### GitHub Copilot [GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
+Your AI pair programmer
+
 ### Live Share [MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 Real-time collaborative development from the comfort of your favorite tools.
