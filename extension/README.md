@@ -22,6 +22,10 @@ AZ AL Development Tools: AL code outline, object browser, object creators
 
 Provides Linting for the AL Language (Business Central)
 
+### Create GUID [nwallace.createGUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
+
+A command that creates a new GUID.
+
 ### Docker [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
 Makes it easy to create, manage, and debug containerized applications.

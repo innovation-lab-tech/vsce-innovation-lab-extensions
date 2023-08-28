@@ -8,6 +8,7 @@
 - [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
 - [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 - [BusinessCentral.LinterCop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
+- [Create GUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
