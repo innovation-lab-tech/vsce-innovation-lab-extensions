@@ -18,6 +18,7 @@
 - [Format in context menus](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>

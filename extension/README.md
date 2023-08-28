@@ -60,6 +60,10 @@ View a Git Graph of your repository, and perform Git actions from the graph.
 
 All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 
+### markdownlint [DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+Markdown linting and style checking for Visual Studio Code
+
 ### PowerShell [ms-vscode.PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
