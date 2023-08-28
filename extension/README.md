@@ -32,6 +32,10 @@ Connect to Azure Repos and work with Git and Team Foundation Version Control (TF
 
 AZ AL Development Tools: AL code outline, object browser, object creators
 
+### Azure Functions [ms-azuretools.vscode-azurefunctions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+
+An Azure Functions extension for Visual Studio Code.
+
 ### BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
 
 Provides Linting for the AL Language (Business Central)

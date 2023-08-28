@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions",
@@ -20,7 +20,8 @@
   "extensionPack": [
     "Calliope.innovation-lab-extensions-lite", "argutec.argutec-azure-repos", 
     "BartPermentier.al-toolbox", "DavidAnson.vscode-markdownlint", 
-    "GitHub.copilot", "jamespearson.al-test-runner", "ms-vscode.PowerShell", 
+    "GitHub.copilot", "jamespearson.al-test-runner", 
+    "ms-azuretools.vscode-azurefunctions", "ms-vscode.PowerShell", 
     "MS-vsliveshare.vsliveshare", "Postman.postman-for-vscode", 
     "vjeko.vjeko-al-objid", "vscode-icons-team.vscode-icons", 
     "yzhang.markdown-all-in-one"

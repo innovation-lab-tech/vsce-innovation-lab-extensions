@@ -11,6 +11,7 @@
 - [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Argutec Azure Repos](https://marketplace.visualstudio.com/items?itemName=argutec.argutec-azure-repos)
 - [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
+- [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
 - [BusinessCentral.LinterCop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Create GUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
