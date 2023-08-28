@@ -40,6 +40,10 @@ An Azure Functions extension for Visual Studio Code.
 
 Visual Studio Code extension for Azure Logic Apps (Consumption)
 
+### Azure Storage [ms-azuretools.vscode-azurestorage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
+
+Manage your Azure Storage accounts including Blob Containers, File Shares, Tables and Queues
+
 ### BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
 
 Provides Linting for the AL Language (Business Central)
