@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions",
@@ -20,6 +20,6 @@
   "extensionPack": [
     "Calliope.innovation-lab-extensions-lite", "argutec.argutec-azure-repos", 
     "BartPermentier.al-toolbox", "jamespearson.al-test-runner", 
-    "vjeko.vjeko-al-objid"
+    "ms-vscode.PowerShell", "vjeko.vjeko-al-objid"
   ]
 }

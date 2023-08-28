@@ -56,6 +56,10 @@ VSCode extension to format multiple files with right click context menu
 
 View a Git Graph of your repository, and perform Git actions from the graph.
 
+### PowerShell [ms-vscode.PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+
+Develop PowerShell modules, commands and scripts in Visual Studio Code!
+
 ### Todo Tree [Gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 Show TODO, FIXME, etc. comment tags in a tree view
