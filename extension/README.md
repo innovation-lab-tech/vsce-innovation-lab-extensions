@@ -56,6 +56,10 @@ VSCode extension to format multiple files with right click context menu
 
 View a Git Graph of your repository, and perform Git actions from the graph.
 
+### Live Share [MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
+Real-time collaborative development from the comfort of your favorite tools.
+
 ### Markdown All in One [yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)

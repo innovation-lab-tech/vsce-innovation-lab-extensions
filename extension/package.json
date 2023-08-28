@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions",
@@ -20,7 +20,8 @@
   "extensionPack": [
     "Calliope.innovation-lab-extensions-lite", "argutec.argutec-azure-repos", 
     "BartPermentier.al-toolbox", "DavidAnson.vscode-markdownlint", 
-    "jamespearson.al-test-runner", "ms-vscode.PowerShell", "vjeko.vjeko-al-objid", 
+    "jamespearson.al-test-runner", "ms-vscode.PowerShell", 
+    "MS-vsliveshare.vsliveshare", "vjeko.vjeko-al-objid", 
     "yzhang.markdown-all-in-one"
   ]
 }
