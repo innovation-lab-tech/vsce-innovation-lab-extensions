@@ -34,6 +34,10 @@ Makes it easy to create, manage, and debug containerized applications.
 
 Improve highlighting of errors, warnings and other language diagnostics.
 
+### Format in context menus [lacroixdavid1.vscode-format-context-menu](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
+
+VSCode extension to format multiple files with right click context menu
+
 ### Git Graph [mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 View a Git Graph of your repository, and perform Git actions from the graph.
