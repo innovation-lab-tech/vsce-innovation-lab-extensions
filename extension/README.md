@@ -36,6 +36,10 @@ AZ AL Development Tools: AL code outline, object browser, object creators
 
 An Azure Functions extension for Visual Studio Code.
 
+### Azure Logic Apps (Consumption) [ms-azuretools.vscode-logicapps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)
+
+Visual Studio Code extension for Azure Logic Apps (Consumption)
+
 ### BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
 
 Provides Linting for the AL Language (Business Central)

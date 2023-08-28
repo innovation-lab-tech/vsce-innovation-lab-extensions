@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Argutec Azure Repos [argutec.argutec-azure-repos](https://marketplace.visualstudio.com/items?itemName=argutec.argutec-azure-repos)
 - AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 - Azure Functions [ms-azuretools.vscode-azurefunctions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+- Azure Logic Apps (Consumption) [ms-azuretools.vscode-logicapps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)
 - BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
 - Create GUID [nwallace.createGUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
 - Docker [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
