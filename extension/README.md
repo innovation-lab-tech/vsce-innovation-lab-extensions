@@ -88,6 +88,10 @@ Show TODO, FIXME, etc. comment tags in a tree view
 
 Highlight trailing spaces and delete them in a flash!
 
+### vscode-icons [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+Icons for Visual Studio Code
+
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.
