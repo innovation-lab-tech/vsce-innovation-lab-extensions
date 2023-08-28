@@ -26,6 +26,10 @@ Provides Linting for the AL Language (Business Central)
 
 Makes it easy to create, manage, and debug containerized applications.
 
+### Git Graph [mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+View a Git Graph of your repository, and perform Git actions from the graph.
+
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.
