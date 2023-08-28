@@ -37,3 +37,7 @@ View a Git Graph of your repository, and perform Git actions from the graph.
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.
+
+### XLIFF Sync [rvanbekkum.xliff-sync](https://marketplace.visualstudio.com/items?itemName=rvanbekkum.xliff-sync)
+
+A tool to keep XLIFF translation files in sync.
