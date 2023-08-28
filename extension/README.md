@@ -88,6 +88,10 @@ Real-time collaborative development from the comfort of your favorite tools.
 
 All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 
+### Markdown Preview Mermaid Support [bierner.markdown-mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+
+Adds Mermaid diagram and flowchart support to VS Code&#x27;s builtin markdown preview
+
 ### markdownlint [DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 Markdown linting and style checking for Visual Studio Code

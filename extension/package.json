@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions",
-  "version": "1.18.0",
+  "version": "1.19.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions",
@@ -19,12 +19,13 @@
   },
   "extensionPack": [
     "Calliope.innovation-lab-extensions-lite", "argutec.argutec-azure-repos", 
-    "BartPermentier.al-toolbox", "DavidAnson.vscode-markdownlint", 
-    "eamodio.gitlens", "GitHub.copilot", "hediet.vscode-drawio", 
-    "jamespearson.al-test-runner", "ms-azuretools.vscode-azurefunctions", 
-    "ms-azuretools.vscode-azurestorage", "ms-azuretools.vscode-logicapps", 
-    "ms-vscode.PowerShell", "MS-vsliveshare.vsliveshare", 
-    "Postman.postman-for-vscode", "statical.prism-al", "vjeko.vjeko-al-objid", 
-    "vscode-icons-team.vscode-icons", "yzhang.markdown-all-in-one"
+    "BartPermentier.al-toolbox", "bierner.markdown-mermaid", 
+    "DavidAnson.vscode-markdownlint", "eamodio.gitlens", "GitHub.copilot", 
+    "hediet.vscode-drawio", "jamespearson.al-test-runner", 
+    "ms-azuretools.vscode-azurefunctions", "ms-azuretools.vscode-azurestorage", 
+    "ms-azuretools.vscode-logicapps", "ms-vscode.PowerShell", 
+    "MS-vsliveshare.vsliveshare", "Postman.postman-for-vscode", 
+    "statical.prism-al", "vjeko.vjeko-al-objid", "vscode-icons-team.vscode-icons", 
+    "yzhang.markdown-all-in-one"
   ]
 }
