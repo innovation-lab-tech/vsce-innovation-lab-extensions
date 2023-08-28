@@ -72,6 +72,10 @@ All you need to write Markdown (keyboard shortcuts, table of contents, auto prev
 
 Markdown linting and style checking for Visual Studio Code
 
+### Postman [Postman.postman-for-vscode](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
+
+Streamline API development and testing with the power of Postman, directly in your favorite IDE.
+
 ### PowerShell [ms-vscode.PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
