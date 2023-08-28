@@ -12,6 +12,10 @@ Development tools for Dynamics 365 Business Central
 
 Manage object IDs in multi-user environments with mind-boggling simplicity.
 
+### AL Toolbox [BartPermentier.al-toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox)
+
+AL Language Regions and Snippets
+
 ### AL Variable Helper [rasmus.al-var-helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
 
 Intellisense to assign correct variable names in AL.
