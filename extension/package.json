@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions",
@@ -18,7 +18,8 @@
     "url": "https://github.com/innovation-lab-tech/vsce-innovation-lab-extensions/issues"
   },
   "extensionPack": [
-    "Calliope.innovation-lab-extensions-lite", "BartPermentier.al-toolbox", 
-    "jamespearson.al-test-runner", "vjeko.vjeko-al-objid"
+    "Calliope.innovation-lab-extensions-lite", "argutec.argutec-azure-repos", 
+    "BartPermentier.al-toolbox", "jamespearson.al-test-runner", 
+    "vjeko.vjeko-al-objid"
   ]
 }

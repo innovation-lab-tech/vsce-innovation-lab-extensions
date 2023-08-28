@@ -24,6 +24,10 @@ AL Language Regions and Snippets
 
 Intellisense to assign correct variable names in AL.
 
+### Argutec Azure Repos [argutec.argutec-azure-repos](https://marketplace.visualstudio.com/items?itemName=argutec.argutec-azure-repos)
+
+Connect to Azure Repos and work with Git and Team Foundation Version Control (TFVC) repositories. Manage your pull requests, work items, and more.
+
 ### AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 
 AZ AL Development Tools: AL code outline, object browser, object creators

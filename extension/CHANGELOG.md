@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - AL Test Runner [jamespearson.al-test-runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
 - AL Toolbox [BartPermentier.al-toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox)
 - AL Variable Helper [rasmus.al-var-helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
+- Argutec Azure Repos [argutec.argutec-azure-repos](https://marketplace.visualstudio.com/items?itemName=argutec.argutec-azure-repos)
 - AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 - BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
 - Create GUID [nwallace.createGUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
