@@ -1,7 +1,7 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions-lite",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "engines": { "vscode": "^1.63.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions Lite",
@@ -21,6 +21,7 @@
   },
   "extensionPack": [
     "andrzejzwierzchowski.al-code-outline", "ms-dynamics-smb.al", 
-    "rasmus.al-var-helper", "waldo.crs-al-language-extension"
+    "rasmus.al-var-helper", "StefanMaron.businesscentral-lintercop", 
+    "waldo.crs-al-language-extension"
   ]
 }

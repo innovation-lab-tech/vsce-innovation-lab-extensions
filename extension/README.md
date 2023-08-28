@@ -18,6 +18,10 @@ Intellisense to assign correct variable names in AL.
 
 AZ AL Development Tools: AL code outline, object browser, object creators
 
+### BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
+
+Provides Linting for the AL Language (Business Central)
+
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.
