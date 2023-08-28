@@ -31,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - markdownlint [DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - Postman [Postman.postman-for-vscode](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
 - PowerShell [ms-vscode.PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+- Prism for AL Connector [statical.prism-al](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
 - Todo Tree [Gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - Trailing Spaces [shardulm94.trailing-spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 - vscode-icons [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)

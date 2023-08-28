@@ -26,6 +26,7 @@
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+- [Prism for AL Connector](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) <picture title="From Innovation Lab Extensions Lite"><img src="assets/InnovationLab.logo.blue.flat.png" alt="Innovation Lab" width="16px"></picture>
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)

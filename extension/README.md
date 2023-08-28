@@ -92,6 +92,10 @@ Streamline API development and testing with the power of Postman, directly in yo
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
 
+### Prism for AL Connector [statical.prism-al](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
+
+Seamless navigation between Prism for AL and Visual Studio Code
+
 ### Todo Tree [Gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 Show TODO, FIXME, etc. comment tags in a tree view
