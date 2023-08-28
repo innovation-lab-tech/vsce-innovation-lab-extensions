@@ -56,6 +56,10 @@ VSCode extension to format multiple files with right click context menu
 
 View a Git Graph of your repository, and perform Git actions from the graph.
 
+### Markdown All in One [yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
+
 ### PowerShell [ms-vscode.PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
