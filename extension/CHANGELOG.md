@@ -14,5 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 - BusinessCentral.LinterCop [StefanMaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop)
 - Docker [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- Error Lens [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - Git Graph [mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)

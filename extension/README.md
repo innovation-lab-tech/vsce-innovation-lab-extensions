@@ -26,6 +26,10 @@ Provides Linting for the AL Language (Business Central)
 
 Makes it easy to create, manage, and debug containerized applications.
 
+### Error Lens [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+Improve highlighting of errors, warnings and other language diagnostics.
+
 ### Git Graph [mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 View a Git Graph of your repository, and perform Git actions from the graph.
