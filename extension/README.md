@@ -10,6 +10,10 @@ The Full **Innovation Lab Extensions** is available [here](https://marketplace.v
 
 Development tools for Dynamics 365 Business Central
 
+### AL Variable Helper [rasmus.al-var-helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
+
+Intellisense to assign correct variable names in AL.
+
 ### AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 
 AZ AL Development Tools: AL code outline, object browser, object creators
