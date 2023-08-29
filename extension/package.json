@@ -1,8 +1,8 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions",
-  "version": "1.19.0",
-  "engines": { "vscode": "^1.63.0" },
+  "version": "3.0.0",
+  "engines": { "vscode": "^1.81.1" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions",
   "description": "Extension Pack for Innovative Business Central applications development",
