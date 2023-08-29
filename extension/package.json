@@ -1,8 +1,8 @@
 {
   "publisher": "calliope",
   "name": "innovation-lab-extensions-lite",
-  "version": "1.14.0",
-  "engines": { "vscode": "^1.63.0" },
+  "version": "2.0.0",
+  "engines": { "vscode": "^1.81.1" },
   "categories": [ "Extension Packs" ],
   "displayName": "Innovation Lab Extensions Lite",
   "description": "Opinionated Lite Extension Pack for Innovative Business Central applications development",
