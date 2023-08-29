@@ -42,6 +42,10 @@ View a Git Graph of your repository, and perform Git actions from the graph.
 
 Show TODO, FIXME, etc. comment tags in a tree view
 
+### Trailing Spaces [shardulm94.trailing-spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+
+Highlight trailing spaces and delete them in a flash!
+
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.
