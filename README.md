@@ -27,6 +27,7 @@
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Performance Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.bcpt)
 - [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 - [Prism for AL Connector](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)

@@ -96,6 +96,10 @@ Adds Mermaid diagram and flowchart support to VS Code&#x27;s builtin markdown pr
 
 Markdown linting and style checking for Visual Studio Code
 
+### Performance Toolkit [ms-dynamics-smb.bcpt](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.bcpt)
+
+Performance development tools for Dynamics 365 Business Central
+
 ### Postman [Postman.postman-for-vscode](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
 
 Streamline API development and testing with the power of Postman, directly in your favorite IDE.

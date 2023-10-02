@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Performance Toolkit [ms-dynamics-smb.bcpt](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.bcpt)
+
 ## [2.0.0]
 
 ### Added
